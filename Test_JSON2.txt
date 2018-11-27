@@ -1,0 +1,40 @@
+{"name": "",  "children": [
+  {"name": "ELA","code": "0", "children": [
+    {"name": "K","code": "1", "children": [
+       {"name": "R","code": "2", "children": [
+          {"name": "1","code": "3", "size":9}, {"name": "2","code": "4", "size":3}]
+       },
+       {"name":"WE","code": "5", "children": [
+          {"name": "1","code": "6", "size":9}, {"name": "2","code": "8", "size":3},
+		  {"name": "3","code": "7", "size":3}, {"name": "4","code": "9", "size":3}]
+       }
+	]},
+	{"name": "Gr1","code": "10", "children": [
+       {"name": "R","code": "11", "children": [
+          {"name": "1","code": "12", "size":9}, {"name": "2","code": "13", "size":3}]
+       },
+       {"name":"WE","code": "14", "children": [
+          {"name": "1","code": "15", "size":9}, {"name": "2","code": "16", "size":3}]
+       }
+	]}
+  ]},
+    {"name": "MATH", "code": "17","children": [
+    {"name": "K", "code": "18","children": [
+       {"name": "G","code": "19", "children": [
+          {"name": "1","code": "20", "size":9}, {"name": "2","code": "21", "size":3}]
+       },
+       {"name":"A","code": "22", "children": [
+          {"name": "1","code": "23", "size":9}, {"name": "2","code": "24", "size":3},
+		  {"name": "3","code": "25", "size":3}, {"name": "4","code": "26", "size":3}]
+       }
+	]},
+	{"name": "Gr1","code": "27", "children": [
+       {"name": "G","code": "28", "children": [
+          {"name": "1","code": "29", "size":9}, {"name": "2","code": "30", "size":3}]
+       },
+       {"name":"A","code": "31", "children": [
+          {"name": "1","code": "32", "size":9}, {"name": "2","code": "33", "size":3}]
+       }
+	]}
+  ]} 
+]}

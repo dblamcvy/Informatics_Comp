@@ -1,0 +1,40 @@
+{"name": "", "children": [
+  {"name": "ELA", "children": [
+    {"name": "K", "children": [
+       {"name": "R", "children": [
+          {"name": "1", "size":9}, {"name": "2", "size":3}]
+       },
+       {"name":"WE", "children": [
+          {"name": "1", "size":9}, {"name": "2", "size":3},
+		  {"name": "3", "size":3}, {"name": "4", "size":3}]
+       }
+	]},
+	{"name": "Gr1", "children": [
+       {"name": "R", "children": [
+          {"name": "1", "size":9}, {"name": "2", "size":3}]
+       },
+       {"name":"WE", "children": [
+          {"name": "1", "size":9}, {"name": "2", "size":3}]
+       }
+	]}
+  ]},
+    {"name": "MATH", "children": [
+    {"name": "K", "children": [
+       {"name": "G", "children": [
+          {"name": "1", "size":9}, {"name": "2", "size":3}]
+       },
+       {"name":"A", "children": [
+          {"name": "1", "size":9}, {"name": "2", "size":3},
+		  {"name": "3", "size":3}, {"name": "4", "size":3}]
+       }
+	]},
+	{"name": "Gr1", "children": [
+       {"name": "G", "children": [
+          {"name": "1", "size":9}, {"name": "2", "size":3}]
+       },
+       {"name":"A", "children": [
+          {"name": "1", "size":9}, {"name": "2", "size":3}]
+       }
+	]}
+  ]} 
+]}
